@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+}
+.img {
+  padding-top: 23px;
+  height: 27px;
+  width: 30px;
+}
+.blog-container {
+  display: flex;
+  padding-left: 3vw;
+}
+.heading {
+  font-size: 13px;
+  padding-left: 7px;
+  padding-top: 20px;
+  font-weight: bold;
+}
+.nav-menu {
+  display: flex;
+  margin-left: 54vw;
+}
+li {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 10px;
+  color: #12022f;
+  font-family: 'Roboto';
+  cursor: pointer;
+  font-weight: bold;
+}
